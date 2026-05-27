@@ -24,6 +24,21 @@ X Prophet Cup is not a standard match betting page. It is designed around repeat
 - `Growth Loop`: predictions can be pushed to X as shareable social moments
 - `Mainnet-Ready`: the contract is already deployed on X Layer Mainnet
 
+## What Problem It Solves
+
+Traditional prediction products are usually strong in short-term excitement but weak in identity, retention, and social propagation.
+
+X Prophet Cup reframes prediction as an on-chain user journey:
+
+- each prediction becomes a visible position
+- each winning streak becomes status
+- each tribe becomes a social affiliation
+- each reward loop becomes a reason to return
+- each result can be turned into a shareable moment on X
+
+This makes the product more than a betting interface.  
+It becomes a sports-native on-chain participation layer.
+
 ## Core Product Mechanics
 
 ### 1. Prophet Streak
