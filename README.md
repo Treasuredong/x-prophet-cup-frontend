@@ -6,6 +6,7 @@ X Prophet Cup is built for the X Cup Hackathon as a lightweight but real on-chai
 
 The project is designed around a simple belief: sports attention should not stop at content consumption. It should be converted into on-chain participation, social identity, repeat interaction, and sustainable protocol activity.
 
+
 ## Live Status
 
 - Live App: [https://x-prophet-cup-frontend.vercel.app](https://x-prophet-cup-frontend.vercel.app)
