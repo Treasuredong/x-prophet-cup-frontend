@@ -4,6 +4,8 @@ World Cup-native prediction market on X Layer Mainnet.
 
 X Prophet Cup is built for the X Cup Hackathon as a lightweight but real on-chain consumer product. It combines prediction markets, SocialFi tribe identity, streak progression, Hype mode, and Prophet NFTs into one serverless frontend experience designed to convert sports attention into on-chain participation.
 
+The project is designed around a simple belief: sports attention should not stop at content consumption. It should be converted into on-chain participation, social identity, repeat interaction, and sustainable protocol activity.
+
 ## Live Status
 
 - Live App: [https://x-prophet-cup-frontend.vercel.app](https://x-prophet-cup-frontend.vercel.app)
