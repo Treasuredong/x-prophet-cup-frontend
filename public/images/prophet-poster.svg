@@ -1,0 +1,39 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" rx="44" fill="#050D18"/>
+  <ellipse cx="794" cy="149" rx="312" ry="136" fill="#FF7A18" fill-opacity="0.28"/>
+  <ellipse cx="1259" cy="199" rx="238" ry="132" fill="#00D1FF" fill-opacity="0.14"/>
+  <ellipse cx="304" cy="214" rx="222" ry="145" fill="#F7C94C" fill-opacity="0.12"/>
+  <path d="M0 740C190 642.667 392.667 594 608 594C889.333 594 1220 677 1600 843V1000H0V740Z" fill="#071A29"/>
+  <rect x="118" y="134" width="288" height="42" rx="21" fill="white" fill-opacity="0.08"/>
+  <text x="262" y="161" fill="#F7FBFF" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">X CUP HACKATHON • XLAYER TESTNET</text>
+  <text x="118" y="310" fill="white" font-family="'Arial Narrow', Arial, sans-serif" font-size="144" font-weight="700">X PROPHET</text>
+  <text x="118" y="430" fill="#FFB74C" font-family="'Arial Narrow', Arial, sans-serif" font-size="144" font-weight="700">CUP</text>
+  <text x="118" y="502" fill="#D5E7F7" font-family="Arial, sans-serif" font-size="34">World Cup-native prediction market built for X Layer.</text>
+  <text x="118" y="556" fill="#B3C7D8" font-family="Arial, sans-serif" font-size="28">Prophet Streak  •  Fan Tribes Jackpot  •  Hype Index  •  Auto-minted NFT</text>
+  <rect x="118" y="620" width="252" height="72" rx="36" fill="url(#cta)"/>
+  <text x="244" y="666" fill="#07131F" font-family="Arial, sans-serif" font-size="28" font-weight="700" text-anchor="middle">Predict On X Layer</text>
+  <rect x="972" y="189" width="472" height="584" rx="36" fill="url(#card)"/>
+  <rect x="972" y="189" width="472" height="584" rx="36" stroke="rgba(255,255,255,0.12)"/>
+  <ellipse cx="1210" cy="308" rx="124" ry="124" fill="#FF7A18" fill-opacity="0.82"/>
+  <path d="M1164 306L1193 281L1225 292L1263 262L1301 291L1329 276" stroke="#07131F" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="1210" y="487" fill="white" font-family="Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle">PROPHET NFT</text>
+  <text x="1210" y="540" fill="#BFD3E4" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">Minted after 3 straight wins</text>
+  <rect x="1046" y="608" width="328" height="54" rx="27" fill="white" fill-opacity="0.06"/>
+  <text x="1210" y="642" fill="white" font-family="Arial, sans-serif" font-size="22" text-anchor="middle">Chain ID 196 • Low-fee social prediction</text>
+  <circle cx="211" cy="824" r="58" fill="#F7C94C" fill-opacity="0.16"/>
+  <circle cx="313" cy="824" r="58" fill="#6CE5B1" fill-opacity="0.14"/>
+  <circle cx="415" cy="824" r="58" fill="#7BDFF2" fill-opacity="0.14"/>
+  <circle cx="517" cy="824" r="58" fill="#FF7A18" fill-opacity="0.18"/>
+  <text x="118" y="936" fill="#8FA8BC" font-family="Arial, sans-serif" font-size="24">@XLayerOfficial  •  Prediction Market + SocialFi + NFT</text>
+  <defs>
+    <linearGradient id="cta" x1="118" y1="620" x2="370" y2="692" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7C94C"/>
+      <stop offset="0.52" stop-color="#FF9A3D"/>
+      <stop offset="1" stop-color="#FF5E62"/>
+    </linearGradient>
+    <linearGradient id="card" x1="972" y1="189" x2="1444" y2="773" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D2134"/>
+      <stop offset="1" stop-color="#09131E"/>
+    </linearGradient>
+  </defs>
+</svg>

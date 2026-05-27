@@ -1,0 +1,31 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" rx="64" fill="#061322"/>
+  <rect x="28" y="28" width="1144" height="1144" rx="52" stroke="#B6F1FF" stroke-width="12"/>
+  <circle cx="330" cy="260" r="190" fill="url(#a)" fill-opacity="0.75"/>
+  <circle cx="870" cy="260" r="210" fill="url(#b)" fill-opacity="0.4"/>
+  <circle cx="920" cy="920" r="220" fill="url(#c)" fill-opacity="0.35"/>
+  <path d="M600 162L812 276V490C812 654 719 800 600 886C481 800 388 654 388 490V276L600 162Z" fill="#091A2D" stroke="#D8F7FF" stroke-width="10"/>
+  <circle cx="600" cy="430" r="184" fill="#0E2640" stroke="#B6F1FF" stroke-width="8"/>
+  <circle cx="600" cy="430" r="146" stroke="#D8F7FF" stroke-width="8" stroke-dasharray="18 18"/>
+  <path d="M600 300L636 334H692L708 386L744 430L708 474L692 526H636L600 560L564 526H508L492 474L456 430L492 386L508 334H564L600 300Z" fill="#B6F1FF"/>
+  <circle cx="600" cy="430" r="42" fill="#0E2640"/>
+  <path d="M470 730C548 690 652 690 730 730" stroke="#D8F7FF" stroke-width="12" stroke-linecap="round"/>
+  <path d="M430 778C536 844 664 844 770 778" stroke="#B6F1FF" stroke-width="12" stroke-linecap="round"/>
+  <path d="M168 1004H1032" stroke="#D8F7FF" stroke-opacity="0.25" stroke-width="10"/>
+  <text x="120" y="1030" fill="#D8F7FF" font-family="Arial, sans-serif" font-size="42" font-weight="700">SILVER PROPHET</text>
+  <text x="120" y="1084" fill="#C7D7E6" font-family="Arial, sans-serif" font-size="28">Locked by streak • Tuned for flex, status, future perks</text>
+  <defs>
+    <linearGradient id="a" x1="140" y1="70" x2="520" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7BDFF2"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="b" x1="660" y1="60" x2="1080" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E2E8F0"/>
+      <stop offset="1" stop-color="#E2E8F0" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="c" x1="700" y1="700" x2="1140" y2="1140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>

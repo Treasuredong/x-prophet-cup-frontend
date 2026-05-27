@@ -1,0 +1,30 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" rx="64" fill="#06141F"/>
+  <rect x="28" y="28" width="1144" height="1144" rx="52" stroke="#E7F77A" stroke-width="12"/>
+  <circle cx="600" cy="200" r="170" fill="url(#a)" fill-opacity="0.9"/>
+  <circle cx="210" cy="920" r="170" fill="url(#b)" fill-opacity="0.45"/>
+  <circle cx="975" cy="915" r="190" fill="url(#c)" fill-opacity="0.35"/>
+  <path d="M600 160L827 278V514C827 702 705 844 600 924C495 844 373 702 373 514V278L600 160Z" fill="#0A1B2B" stroke="#F4FFB3" stroke-width="10"/>
+  <path d="M600 276L662 386H790L686 476L726 606L600 534L474 606L514 476L410 386H538L600 276Z" fill="#D9FF3D"/>
+  <circle cx="600" cy="488" r="170" stroke="#E7F77A" stroke-width="10"/>
+  <path d="M520 720C564 748 636 748 680 720" stroke="#F4FFB3" stroke-width="12" stroke-linecap="round"/>
+  <path d="M454 770C542 834 658 834 746 770" stroke="#D9FF3D" stroke-width="12" stroke-linecap="round"/>
+  <path d="M220 220L310 270L280 170L370 220L300 120" stroke="#F4FFB3" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M850 196L920 248L914 154L992 218L960 124" stroke="#F4FFB3" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="120" y="1030" fill="#F4FFB3" font-family="Arial, sans-serif" font-size="42" font-weight="700">CHAMPION PROPHET</text>
+  <text x="120" y="1084" fill="#D7E4F0" font-family="Arial, sans-serif" font-size="28">Final-tier World Cup skin • Prestige collectible on X Layer</text>
+  <defs>
+    <linearGradient id="a" x1="430" y1="30" x2="770" y2="370" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9FF3D"/>
+      <stop offset="1" stop-color="#FACC15"/>
+    </linearGradient>
+    <linearGradient id="b" x1="40" y1="750" x2="380" y2="1090" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="c" x1="785" y1="725" x2="1165" y2="1105" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9FF3D"/>
+      <stop offset="1" stop-color="#D9FF3D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>
